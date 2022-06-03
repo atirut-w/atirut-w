@@ -4,6 +4,7 @@ My name is Atirut and I am a hobbyist programmer. Most of the projects I made ar
 # Skills
 - Lua
 - C#
+- C
 - GDScript(**spaghetti code warning**)
 
 # Fun facts about me
