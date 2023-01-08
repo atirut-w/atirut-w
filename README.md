@@ -3,6 +3,7 @@ Hi! My name is Atirut and I am a hobbyist programmer. Most of the projects I mad
 
 ## Notable projects
 - [Game Jolt API for Godot](https://github.com/atirut-w/atirut.gj-api)
+- [OCZ80](https://github.com/atirut-w/ocz80)
 
 ## Skills
 - Lua
