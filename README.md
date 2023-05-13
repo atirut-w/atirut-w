@@ -9,6 +9,7 @@ Hi! My name is Atirut and I am a hobbyist programmer. Most of the projects I mad
 - Lua
 - C#
 - C
+- C++
 - GDScript
 
 ## Fun facts about me
