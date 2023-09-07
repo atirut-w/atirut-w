@@ -1,5 +1,5 @@
 # About me
-Hi! My name is Atirut and I am a hobbyist programmer. Most of the projects I made are to play around with stuff, but there are some projects I am actively working on, too.
+Hi! My name is Atirut and I am a hobbyist programmer. Most of my projects were made to play around with stuff, but there are some projects I am actively working on, too.
 
 ## Work and education
 I am currently studying computer science at Kasetsart University and working as an assistant at a school in Bang Lamung.
@@ -14,7 +14,7 @@ I am currently studying computer science at Kasetsart University and working as 
 - C#
 - GDScript
 - Lua
-- Python(somewhat of a novice)
+- Python
 - Assembly
   - Z80
   - 6502
