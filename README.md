@@ -9,15 +9,14 @@ I am currently studying computer science at Kasetsart University and working as 
 - [OCZ80](https://github.com/atirut-w/ocz80)
 
 ## Skills
-- C
-- C++
-- C#
-- GDScript
-- Lua
-- Python
+- C++ (intermediate)
+- C# (intermediate - very rusty)
+- GDScript (intermediate)
+- Lua (intermediate - somewhat rusty)
+- Python (intermediate)
 - Assembly
-  - Z80
-  - 6502
+  - Z80 (beginner to intermediate)
+  - 6502 (beginner)
 
 ## Fun facts about me
 - I'm a weeb
