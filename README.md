@@ -5,8 +5,7 @@ Hi! My name is Atirut and I am a hobbyist programmer. Most of my projects were m
 I am currently studying computer science at Kasetsart University and working as an assistant at a school in Bang Lamung.
 
 ## Notable projects
-- [Game Jolt API for Godot](https://github.com/atirut-w/atirut.gj-api)
-- [OCZ80](https://github.com/atirut-w/ocz80)
+- [Fantacom](https://github.com/atirut-w/fantacom)
 
 ## Skills
 - C++ (intermediate)
