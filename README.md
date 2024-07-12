@@ -1,26 +1,6 @@
 <a rel="me" href="https://toot.community/@Atirut"></a>
 
 # About me
-Hi! My name is Atirut and I am a hobbyist programmer. Most of my projects were made to play around with stuff, but there are some projects I am actively working on, too.
-
-## Work and education
-I am currently studying computer science at Kasetsart University and working as an assistant at a school in Bang Lamung.
-
-## Notable projects
-- [Fantacom](https://github.com/atirut-w/fantacom)
-
-## Skills
-- C++ (intermediate)
-- C# (intermediate - very rusty)
-- GDScript (intermediate)
-- Lua (intermediate - somewhat rusty)
-- Python (intermediate)
-- Assembly
-  - Z80 (beginner to intermediate)
-  - 6502 (beginner)
-
-## Fun facts about me
-- I'm a weeb
-- That's all lol
+This section has been moved to my personal site. Check it out [here](https://atirut-w.github.io/)!
 
 [![Atirut's GitHub stats](https://github-readme-stats.vercel.app/api?username=atirut-w)](https://github.com/anuraghazra/github-readme-stats)
