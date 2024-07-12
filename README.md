@@ -1,3 +1,5 @@
+<a rel="me" href="https://toot.community/@Atirut"></a>
+
 # About me
 Hi! My name is Atirut and I am a hobbyist programmer. Most of my projects were made to play around with stuff, but there are some projects I am actively working on, too.
 
