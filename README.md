@@ -12,7 +12,7 @@ My interests:
 - Game development and tooling.
 - Localisation (l10n)
 
-If you want to see my l10n works, one of the places you can find them would be my DL profile linked under my GitHub profile.
+If you want to see my l10n works, one of the places you can find them would be [my DL profile](https://l10n.gnome.org/users/Atirut-W/).
 
 ## Skills
 - C++ (intermediate)
