@@ -12,7 +12,7 @@ My interests:
 - Game development and tooling.
 - Localisation (l10n)
 
-My personal site can be found [here](https://atirut-w.github.io/) if you want to read my ramblings.
+If you want to see my l10n works, one of the places you can find them would be my DL profile linked under my GitHub profile.
 
 ## Skills
 - C++ (intermediate)
